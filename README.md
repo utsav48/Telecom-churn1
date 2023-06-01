@@ -1,4 +1,4 @@
-# Telecom-churn1
+# Telecom-Churn prediction
 There were a very huge dataset of telecom(13209 rows and 79 column) and I had done data clean and done  the further modeling. As my main goal was to control the churn in given telecom company and target the good customer for the better revenue.
 All data files referenced in this assignment are in the Jigsaw lab at:
  
